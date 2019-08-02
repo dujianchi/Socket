@@ -1,0 +1,24 @@
+apply plugin: 'java'
+sourceCompatibility = 1.8
+version = "0.1"
+
+repositories {
+  maven {url 'https://maven.aliyun.com/repository/jcenter'}
+}
+
+dependencies {
+  
+}
+
+tasks.withType(JavaCompile) {
+  options.encoding = "UTF-8"
+}
+
+sourceSets {
+  main {
+    java {
+      srcDir 'src'
+    }
+  }
+}
+
