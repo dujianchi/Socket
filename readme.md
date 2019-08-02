@@ -1,6 +1,8 @@
 # Socket
 
 [![Gitter chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/areong_Socket/Lobby)
+  
+[![](https://jitpack.io/v/dujianchi/Socket.svg)](https://jitpack.io/#dujianchi/Socket)  
 
 Threaded Java socket server and client
 
